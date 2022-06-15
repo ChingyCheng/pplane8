@@ -21,3 +21,5 @@ if dud.notice & dud.noticeflag -> if ishghandle(dud.notice) & ishghandle(dud.not
 and use the latest
 Phase Plane and Slope Field apps
    https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field
+
+Copyright John C Polking, Rice University, original 2003. Updated by Hugh Harvey and George Williams, University of Bristol, 2016.
